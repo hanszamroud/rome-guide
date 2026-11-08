@@ -498,6 +498,17 @@
 
   /* ---------- Offline support ---------- */
   if ("serviceWorker" in navigator && location.protocol !== "file:") {
-    navigator.serviceWorker.register("sw.js").then(() => { if (currentView() === "plan") setTimeout(offlineStatus, 1500); }).catch(() => {});
+    // updateViaCache "none": always fetch sw.js fresh, so a new version is found on the next open
+    const hadController = !!navigator.serviceWorker.controller;
+    navigator.serviceWorker.register("sw.js", { updateViaCache: "none" }).then((reg) => {
+      reg.update().catch(() => {});
+      if (currentView() === "plan") setTimeout(offlineStatus, 1500);
+    }).catch(() => {});
+    // when a new version has taken over, reload once so the new files are shown (not while audio plays)
+    let reloaded = false;
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (!hadController || reloaded || Player.playing) return;
+      reloaded = true; location.reload();
+    });
   }
 })();
