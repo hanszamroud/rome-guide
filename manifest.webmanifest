@@ -1,0 +1,14 @@
+{
+  "name": "Rome Walk: Palatine, Forum, Colosseum",
+  "short_name": "Rome Walk",
+  "description": "Offline audio walking guide for the Palatine, Roman Forum and Colosseum.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f1e6",
+  "theme_color": "#b5532f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

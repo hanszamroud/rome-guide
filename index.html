@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rome Walk</title>
+<meta name="description" content="Offline audio walking guide: Palatine, Roman Forum and Colosseum.">
+<meta name="theme-color" content="#b5532f">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Rome Walk">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">Rome Walk <span class="date">Sat 14 Nov</span></div>
+  <nav class="tabs" aria-label="Sections">
+    <a href="#/" data-tab="route">Route</a>
+    <a href="#/map" data-tab="map">Map</a>
+    <a href="#/plan" data-tab="plan">Plan</a>
+  </nav>
+</header>
+
+<main id="view" tabindex="-1"></main>
+
+<div id="near" class="near" hidden></div>
+
+<footer id="player" class="player" hidden>
+  <div class="player-info">
+    <div class="player-title" id="playerTitle"></div>
+    <div class="player-sub" id="playerSub"></div>
+    <div class="player-bar"><div id="playerProgress"></div></div>
+  </div>
+  <button class="pbtn" id="pBack" aria-label="Back one sentence">&#x21BA;</button>
+  <button class="pbtn big" id="pToggle" aria-label="Pause">&#10074;&#10074;</button>
+  <button class="pbtn" id="pStop" aria-label="Stop">&#9632;</button>
+</footer>
+
+<div id="lightbox" class="lightbox" hidden>
+  <button class="lb-close" aria-label="Close">&times;</button>
+  <img alt="">
+  <p class="lb-cap"></p>
+</div>
+
+<script src="data/stops.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

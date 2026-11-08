@@ -1,0 +1,439 @@
+# Ancient Rome Walking Guide — 14 Nov
+
+Source text for the app. `tools/build_data.py` turns this file into `data/stops.js`. Edit here, then rebuild.
+
+## Palatine Hill (stops 1–6, about 9:00–10:10)
+
+The Palatine is where Rome says it began and where emperors lived for 300 years. Walk from the entrance up toward the palace, then to the terrace over the Forum.
+
+### 1. Aqueduct arches: water for the palace
+
+Threads: Engineering. Optional.
+
+**Script.** Near the entrance and along the hill's eastern edge you will see tall brick arches. They carried water to the emperors' palace. The water came from the Aqua Claudia, an aqueduct begun under Caligula in 38 AD and finished by Claudius in 52 AD, fed by springs about 70 km east of Rome. Nero built a branch across the Caelian Hill. Domitian extended it here, to the top of the Palatine.
+
+It all ran on gravity, with no pumps. Surveyors set straight lines with a sighting cross called the groma, and slopes with the chorobates, a long table with a water channel on top used as a level. The channel had to fall only gently over long distances. Too steep and the water scours the channel; too flat and it stagnates and silts up.
+
+The palace sits on a hill, so the water had to arrive high. That is why it crosses the valley between the Caelian and the Palatine on arches: this is a bridge for water. On the hill it filled cisterns, then ran through lead pipes to fountains, baths and gardens. The pipes were stamped with the owner's or emperor's name. Our word plumber comes from the Latin for lead, plumbum.
+
+**Look for.** Brick facing over a concrete core. Small square holes in the brickwork where scaffolding beams once sat. The line of arches heading east toward the Caelian Hill.
+
+**Images.** Diagram to draw: aqueduct profile from springs to Palatine, with the valley crossing. Diagram to draw: how a chorobates level works. Photo: the arches today.
+
+### 2. Circus Maximus viewpoint (CORE)
+
+Threads: Daily life, Politics.
+
+**Core.** The long grassy valley below you is the Circus Maximus. It is a park now, but for about a thousand years it was Rome's biggest venue. At its largest it was about 600 m long and seated around 150,000 people, three times the Colosseum.
+
+Picture a race. Up to twelve chariots, usually with four horses each. Seven laps anticlockwise around a central barrier called the spina. The danger point was the turning post, the meta, where crashes happened; Romans called them naufragia, shipwrecks.
+
+Fans followed four teams: Reds, Whites, Greens and Blues. Loyalty was closer to a football club than a hobby. And the palace behind you looked straight down on the track. The emperor could step into his box and be seen by a large share of the city at once.
+
+**Deep dive: star drivers and political theatre.** The most successful driver we know of is Gaius Appuleius Diocles, from Lusitania in today's Portugal, in the 2nd century AD. A monument in his honour records 4,257 races and 1,462 wins over 24 years, and prize money of almost 36 million sesterces. For scale, the minimum fortune to sit in the Senate was about 1 million.
+
+For emperors the circus was a mood barometer. Crowds chanted demands: cheaper grain, the punishment of an unpopular official. Ignoring them looked arrogant; answering them looked like a man of the people. Suetonius says Julius Caesar was resented for reading letters and petitions during the races, so Augustus made a point of watching closely.
+
+The passion was everyday too. Romans bet on races and buried lead curse tablets asking the gods to break a rival team's horses. Team loyalty could even turn political. In Constantinople in 532 AD, Blue and Green fans united in the Nika riots and nearly toppled Emperor Justinian.
+
+**Look for.** The oval outline of the valley. The curved end at the far southeast, with a small medieval tower. The Aventine Hill rising on the other side.
+
+**Images.** Then and now: a public-domain reconstruction drawing of the Circus Maximus with the palace above. Diagram to draw: the track with the spina, turning posts and starting gates.
+
+### 3. Stadium of Domitian
+
+Threads: Engineering, Daily life. Optional.
+
+**Script.** Look down into this long sunken rectangle, about 160 m long, with a curved end. It looks exactly like a racetrack, and it is called the stadium. But it is too small for chariots, and it was framed by a two-storey colonnade. So what was it?
+
+Archaeologists still argue. The best guess is a garden shaped like a racecourse. Wealthy Romans loved these. Pliny the Younger describes one at his own villa: a hippodrome-shaped garden lined with plane trees and clipped box hedges. Here the emperor could walk in shade, talk privately, or show guests a garden on an imperial scale.
+
+On one long side is a large curved recess, probably a viewing box. A garden with a royal box is the kind of status statement this palace was built to make.
+
+**Look for.** The curved recess on the long side. The bases of the colonnade's piers. Brick walls that once carried marble.
+
+**Images.** Then and now: a reconstruction drawing of the stadium garden. Plan diagram to draw: the stadium beside the palace.
+
+### 4. Palace of Domitian (CORE)
+
+Threads: Politics, Philosophy.
+
+**Core.** You are walking through the most important building of the Roman Empire for three centuries. Emperor Domitian finished it in 92 AD, designed by his architect Rabirius. It had two halves. The Domus Flavia was the official side, with a throne room and a vast dining hall. The Domus Augustana was the private residence, stepping down the hill toward the Circus. The hill's name, Palatium, gave Europe its word for palace.
+
+An emperor's day began with the salutatio. At dawn, senators and clients queued to greet him. Then came petitions, letters and court cases. In the evening came dinner in the great hall, heated from below, where your place on the couches showed your rank.
+
+Domitian ruled efficiently but grew paranoid. Suetonius says he lined his colonnades with a polished, reflective stone so he could see who was behind him. It did not help. In 96 AD he was stabbed to death here, in a plot that reached into his own household.
+
+**Deep dive: the emperor who banished philosophers.** Domitian expelled philosophers from Rome, and later from Italy. Why fear philosophers? Stoic senators had a tradition of principled opposition. They admired Cato the Younger, who chose death over life under Caesar. Under Domitian, the senator Arulenus Rusticus was executed for praising such men, and Tacitus says the books were burned in the Forum.
+
+One of the exiles was Epictetus, a former slave. He moved to Greece and taught there. His central idea: some things are up to us, our judgements and choices; everything else, including wealth, power and the emperor's moods, is not. Freedom means mastering what is yours. Picture the contrast. The most powerful man in the world lives behind mirrored walls, afraid. An ex-slave teaches that a tyrant can touch only your body.
+
+The story closes in this same palace. About 70 years later, Marcus Aurelius lived here as emperor. In his Meditations he thanks his teacher Junius Rusticus, probably the grandson of the executed senator, for lending him the notes of Epictetus.
+
+**Look for.** Huge brick walls with rows of small holes, where marble panels were fixed. In the private wing, the sunken courtyard with its fountain basin. In the dining hall, the small brick pillars that held up a heated floor.
+
+**Images.** Then and now: a reconstruction drawing of the throne room or dining hall. Plan diagram to draw: public half and private half, with the route you walk. Diagram to draw: how a hypocaust heated floor works.
+
+### 5. Romulus's hilltop
+
+Threads: Politics. Optional.
+
+**Script.** Legend says Romulus founded Rome on this hill on 21 April 753 BC. That precise date was worked out centuries later by the scholar Varro. The twins Romulus and Remus were suckled by a she-wolf in a cave at the foot of this hill. The brothers quarrelled over who the gods favoured. Remus mocked the new wall by jumping over it, and Romulus killed him.
+
+Now the archaeology. On this corner of the hill, excavators found holes cut into the bedrock for the posts of Iron Age huts from the 8th century BC, close to the legendary date. The Romans kept a hut here they called the Hut of Romulus, and repaired it for centuries as a relic.
+
+Augustus chose to live right next to it, in a house that was modest by elite standards. The message: I am Rome's new founder, not a king. He reportedly considered taking the name Romulus, but Romulus had been a king and had been killed, so he chose Augustus instead. His house and his wife Livia's house need a separate ticket; here you see them from outside.
+
+**Look for.** Post holes in the rock, if the shelter is open. The platform of the Temple of Magna Mater nearby. The view west toward the Tiber, where the first river crossing made this hill valuable.
+
+**Images.** Diagram to draw: an Iron Age hut reconstructed from the post holes. Photo: an Iron Age hut-shaped burial urn from a museum, showing what these huts looked like.
+
+### 6. Farnese Gardens terrace: the Forum below (CORE)
+
+Threads: Politics.
+
+**Core.** From this terrace you see the whole Roman Forum, your next 90 minutes. The gardens around you were laid out in the 1500s by Cardinal Alessandro Farnese, on top of the ruins of Tiberius's palace.
+
+The valley below was marshland until the Romans drained it, traditionally around 600 BC, with a great drain called the Cloaca Maxima. It then became the city's centre for a thousand years. Facing the Forum, the Colosseum side is to your right and the Capitoline Hill to your left.
+
+Find your landmarks. On the right, the Arch of Titus and the huge brick vaults of the Basilica of Maxentius. Below, the round Temple of Vesta and the long garden of the Vestals' house with its pools. Then three tall columns, the Temple of Castor and Pollux. At the far end, the eight columns of the Temple of Saturn, the Arch of Septimius Severus and the brick box of the Senate House. Behind them is the Capitoline Hill. The paved road winding through is the Via Sacra, the route of triumphal processions.
+
+**Deep dive: a thousand years in one valley.** The Forum grew in layers. Under the kings: drainage, the first shrines and a market. Under the Republic: the Senate House, the speakers' platform, temples to Saturn and to Castor and Pollux, and the basilicas, which were law courts and business halls. Julius Caesar and Augustus rebuilt it as a stage for their family, with a temple to the deified Caesar at its centre. Later emperors added temples to deified predecessors and triumphal arches. The last monument, a column honouring the Byzantine emperor Phocas, went up in 608 AD.
+
+Then the valley filled with soil and rubble over centuries, burying the ancient level metres deep. You will see the evidence later: doors hanging high on temple fronts. Systematic excavation in the 19th and 20th centuries brought the old ground level back to light.
+
+**Look for.** The line of the Via Sacra. The three columns of Castor and Pollux. The rectangular footprint of the Basilica Julia, marked by column stumps.
+
+**Images.** Then and now: an early-1900s reconstruction drawing of the Forum next to a photo from about the same angle. Diagram to draw: a labelled panorama of this view.
+
+## Roman Forum (stops 7–18, about 10:10–11:45)
+
+Come down from the Palatine to the Arch of Titus, then walk the Via Sacra west toward the Capitoline. You finish at the Temple of Antoninus and Faustina, beside the Salara Vecchia exit.
+
+### 7. Arch of Titus (CORE)
+
+Threads: Politics, Engineering.
+
+**Core.** This arch was built soon after 81 AD by Emperor Domitian for his brother Titus, who had just died and been declared a god. The inscription on the side facing the Colosseum says so: the Senate and People of Rome, to the deified Titus.
+
+Step inside the passage. One relief shows Titus riding in his triumphal chariot, crowned by the goddess Victory. The other shows soldiers carrying treasure from the Temple in Jerusalem: the seven-branched menorah, silver trumpets and a sacred table. Titus had captured Jerusalem in 70 AD, and this is the victory parade through Rome the next year. Look up: in the vault an eagle carries Titus to heaven.
+
+This is political advertising. The Flavians were a new dynasty with no famous ancestors. Their claim to rule rested on military victory, so they put it in marble on Rome's main road.
+
+**Deep dive: an arch with three lives.** Engineering first. The arch has a concrete core faced with Greek marble. By the 1800s it was embedded in medieval buildings and falling apart. In 1821 the architect Giuseppe Valadier rebuilt it. He used plain travertine for the new outer parts, deliberately simpler than the original marble, so anyone could tell old from new. This idea, that a restoration should be honest about what is modern, is now a basic rule of conservation.
+
+Second, colour. In 2012 researchers scanning the relief found traces of yellow ochre on the menorah. Like most Roman sculpture, these reliefs were painted, and the menorah probably looked gold.
+
+Third, meaning. The treasure carried on this arch helped fund Rome's building boom. A reconstructed inscription from the Colosseum suggests it was paid for from the spoils of war. For Jews the arch has long been a symbol of exile, and by tradition many avoided walking under it.
+
+**Look for.** The menorah relief inside the passage. The coffered vault with the eagle. The colour change between the original marble centre and Valadier's travertine sides.
+
+**Images.** Look for: the spoils relief with the menorah circled. Diagram to draw: the arch with original and 1821 parts in different shades. Then and now: an 18th-century Piranesi engraving of the arch still built into medieval walls.
+
+### 8. Basilica of Maxentius (CORE)
+
+Threads: Engineering.
+
+**Core.** These three enormous vaulted bays are only one side aisle of the building. Emperor Maxentius began it around 308 AD, and Constantine finished it after defeating him in 312. The central hall was about 80 m long, and its vaults rose to about 35 m. A basilica was a public hall for courts and business, not a church. At one end sat a colossal statue of Constantine. Its head, about 2.5 m tall, is now in the Capitoline Museums.
+
+How do you roof a space like this without steel? With Roman concrete: lime mortar mixed with volcanic ash called pozzolana, packed around chunks of stone and brick. It is very strong in compression and even sets underwater. The central hall was covered by three huge cross vaults. They gathered the roof's weight onto eight massive piers. The side bays you see worked as buttresses, pushing back against the vaults so they would not spread.
+
+**Deep dive: why Roman concrete lasts.** The volcanic ash reacts with lime to form very stable minerals. Builders also graded their aggregate: heavy stone near the base, lighter tufa or pumice higher up, to reduce the load. The Pantheon is the famous example of this. The coffers you see in the vault do the same job: they remove weight without losing strength.
+
+A 2023 study led by MIT found small white lumps of lime in Roman concrete. When a crack lets water in, these lumps can dissolve and recrystallise, sealing the crack. It is a self-healing material.
+
+The weakness is tension. Without steel reinforcement, Roman concrete fails when stretched or bent. That is why Roman architecture is all arches, vaults and domes: shapes that keep the material in compression. The central nave here probably collapsed in an earthquake in the 9th century. Renaissance architects, including those who designed St Peter's, studied these vaults as models.
+
+**Look for.** The octagonal coffers in the vaults. The thickness of the piers. Stubs of the collapsed central vault at the top of the walls.
+
+**Images.** Then and now: a reconstruction drawing of the interior with the colossal statue. Diagram to draw: cross-section showing how loads flow from the vaults into the piers and side bays. Photo: the colossal head of Constantine.
+
+### 9. Temple of Vesta and House of the Vestals (CORE)
+
+Threads: Daily life, Politics.
+
+**Core.** This small round temple kept the eternal flame of Rome. Its round shape echoes the earliest Roman huts, a hearth for the whole city. If the fire went out, it was a terrible omen.
+
+The flame was kept by six Vestal Virgins. They were chosen as girls aged six to ten from respectable families, and served for 30 years: ten learning, ten performing the rites, ten teaching. They tended the fire, fetched water from a sacred spring and guarded the city's most sacred objects.
+
+Their status was unusual for Roman women. They were freed from their father's legal control, could own property and make wills, had front-row seats at the games, and walked the streets with an official escort. The price was strict chastity for 30 years. A Vestal convicted of breaking it was buried alive. This was rare, but it happened.
+
+**Deep dive: the Vestals and power.** The Vestals also kept important documents, including wills and treaties. Julius Caesar deposited his will with them. In 32 BC Octavian forced them to hand over Mark Antony's will and read it aloud in the Senate. He claimed it asked for Antony to be buried in Alexandria beside Cleopatra. It was powerful propaganda, and it helped bring the war that ended Antony's career.
+
+The Vestals could intervene in politics, too. Suetonius says they pleaded with the dictator Sulla to spare the young Julius Caesar, and Sulla gave in.
+
+Walk along the courtyard of their house. It once had a garden with pools, framed by two storeys of rooms. Statues of the chief Vestals stand on inscribed bases. One base has its name deliberately erased. Nobody knows why for certain. The flame was finally put out in the 390s, when Emperor Theodosius banned pagan cult.
+
+**Look for.** The partly rebuilt round temple. The long pools in the courtyard. The statues of chief Vestals, and the base with the erased name.
+
+**Images.** Then and now: a reconstruction drawing of the round temple. Look for: the statue base with the erased name. Diagram to draw: the Vestal's 30-year career as a simple timeline.
+
+### 10. Temple of Caesar (CORE)
+
+Threads: Politics.
+
+**Core.** This low ruin under a roof often has fresh flowers on it. On 15 March 44 BC, Julius Caesar was stabbed to death at a Senate meeting in the Theatre of Pompey, across town. His body was brought here. Mark Antony gave the funeral speech and held up Caesar's bloodstained toga. The crowd was so stirred that it piled up benches and tables and burned the body on the spot, here in the Forum.
+
+Caesar's adopted heir, Octavian, built a temple on the site, dedicated in 29 BC to the Divine Julius. Caesar became the first Roman officially made a god by the state. Octavian then called himself son of a god. Grief became the foundation of a dynasty.
+
+**Deep dive: how the Republic ended.** In 49 BC Caesar crossed the Rubicon with his army and won the civil war. In early 44 BC he was named dictator for life. About sixty senators, led by Brutus and Cassius, believed they were saving the Republic by killing him. They had no plan for what came next, and the crowd loved Caesar.
+
+What followed: a new alliance of Antony, Octavian and Lepidus; lists of political enemies to be killed, including Cicero; the defeat of Brutus and Cassius at Philippi in 42 BC; and Octavian's victory over Antony and Cleopatra at Actium in 31 BC. In 27 BC Octavian became Augustus. The killing meant to save the Republic produced a monarchy.
+
+The famous line "Friends, Romans, countrymen" is Shakespeare's, not Antony's. Our best ancient accounts of the funeral come from later historians such as Appian and Suetonius.
+
+**Look for.** The curved niche in the front wall, where an altar marked the spot of the cremation. Flowers left by visitors.
+
+**Images.** Then and now: a reconstruction drawing of the temple. Photo: an ancient coin that shows the temple. Diagram to draw: a one-line timeline from the Rubicon (49 BC) to Augustus (27 BC).
+
+### 11. Basilica Julia (CORE)
+
+Threads: Daily life, Engineering.
+
+**Core.** This large flat rectangle, about 100 m long and marked by brick pillar stumps, was the Basilica Julia. Caesar began it and Augustus finished it. It was Rome's busiest courthouse. The inheritance court sat here, with 180 judges in four panels, separated by curtains when they sat at the same time.
+
+Trials were public entertainment. Pliny the Younger, who argued cases here, describes spectators packed into the upper galleries. He also complains about hired applause: men paid with a dinner to cheer a speaker.
+
+The waiting was long, and bored Romans gambled. Scratched into the steps and pavement you can still find game boards: circles divided into segments, and grids for board games.
+
+**Deep dive: law as a career.** For a young Roman with ambition, the courts were the way up. You made your name by prosecuting a powerful man or defending a famous one. Speeches were performances, and the best were published and studied.
+
+The legal ideas argued in halls like this lasted longer than the buildings. Roman law was collected and organised under the emperor Justinian in the 6th century. That collection became the foundation of the civil law systems used across most of continental Europe and Latin America today.
+
+The Forum around you was also a working marketplace. There were money changers, shops, sellers of food and goods, and crowds of slaves and freedmen running errands for their masters.
+
+**Look for.** Game boards scratched into the steps and floor: look for circles with spokes and small grids. The line of pillar stumps showing the hall's aisles.
+
+**Images.** Look for: a photo of a game board on the steps. Then and now: a reconstruction drawing of the interior during a trial. Diagram to draw: how to play a simple Roman board game.
+
+### 12. Temple of Saturn
+
+Threads: Politics, Daily life. Optional.
+
+**Script.** These eight columns on a high podium belong to one of Rome's oldest temples, traditionally dedicated in 497 BC. What you see is a late rebuild. The inscription says the Senate and People restored it after a fire. Inside the podium was the state treasury, holding coin reserves and public records.
+
+In 49 BC, after crossing the Rubicon, Caesar came to take the treasury to pay for his war. A tribune named Metellus stood in the doorway and refused. Plutarch says Caesar threatened to kill him, adding that saying it was harder for him than doing it. Metellus stepped aside.
+
+Saturn was also the god of the Saturnalia, Rome's favourite festival, starting on 17 December. There were banquets, gifts and public gambling. Masters served their slaves at table, and everyone wore the felt cap of a freed slave. Seneca grumbled that the whole city went wild. Some of its customs, like midwinter gift-giving, have echoes in later holidays.
+
+**Look for.** Columns and bases that do not quite match: evidence of late repairs with reused pieces. The restoration inscription on the frieze.
+
+**Images.** Then and now: a reconstruction drawing of the temple. Painting: an 18th-century public-domain painting of the Saturnalia.
+
+### 13. Rostra (CORE)
+
+Threads: Politics, Philosophy.
+
+**Core.** The long raised platform at this end of the Forum is the Rostra, Rome's speakers' platform. It is named after the bronze rams of warships, rostra, captured at Antium in 338 BC and fixed to the earlier platform. From here magistrates spoke to the people, proposed laws and gave funeral speeches. Politics in Rome was face to face: the crowd in front of you, the Senate House beside you, the temples around you to point at for effect.
+
+The greatest speaker of the Republic was Marcus Tullius Cicero. In 44 and 43 BC he gave a series of furious speeches against Mark Antony. When Antony, Octavian and Lepidus joined forces, they drew up lists of enemies to be killed, and Antony insisted on Cicero. Cicero was caught and killed on 7 December 43 BC. His head and hands were displayed here, on the platform where he had spoken.
+
+**Deep dive: Cicero the philosopher.** When politics shut him out, Cicero wrote philosophy. His goal was to bring Greek thought into Latin. He wrote on duty, on friendship, on the gods and on how to face death. To do it he had to invent Latin words, including qualitas, the root of our word quality.
+
+His political idea was the res publica, the "public thing". A state belongs to its people, held together by law and a shared sense of justice. Above any ruler stands a natural law that reason can discover. This idea passed through medieval and Renaissance thinkers to John Locke and the founders of modern republics.
+
+Nearby are two small monuments to Rome as centre of the world. The Umbilicus Urbis, the navel of the city, is a brick stump near the Arch of Septimius Severus. Augustus also set up a gilded milestone here, listing distances to the empire's cities. It is the root of the saying that all roads lead to Rome.
+
+**Look for.** Holes along the platform's front where the ship rams were fixed. The brick stump of the Umbilicus Urbis. Fragments of the Golden Milestone near the Temple of Saturn.
+
+**Images.** Then and now: a reconstruction drawing of the Rostra with ship rams. Photo: an ancient coin showing the Rostra. Diagram to draw: a warship ram, and where it sat on the platform.
+
+### 14. Arch of Septimius Severus
+
+Threads: Politics. Optional.
+
+**Script.** This arch was built in 203 AD for Emperor Septimius Severus and his sons Caracalla and Geta, celebrating victories over the Parthian Empire. Severus came from Lepcis Magna in today's Libya, the first emperor born in Africa. The historian Cassius Dio reports his advice to his sons on his deathbed: live in harmony, pay the soldiers well, and ignore everyone else.
+
+The brothers did not live in harmony. In 211 AD Caracalla had Geta murdered, reportedly in their mother's arms. Then came damnatio memoriae, the official erasure of a person's memory. Geta's name was removed from inscriptions across the empire, and his face was scraped from paintings.
+
+Look at the big inscription at the top. The letters were once bronze, set into sockets in the stone. The fourth line was chiselled away and replaced with words praising "the best and bravest emperors". But the old sockets are still there. From the pattern of holes, scholars have read the original line: it named Geta.
+
+**Look for.** The fourth line of the inscription, where the holes do not match the letters. The worn relief panels showing the Parthian campaigns.
+
+**Images.** Look for: a close-up of the inscription with line 4 highlighted. Diagram to draw: the original and replacement text one above the other.
+
+### 15. Lapis Niger
+
+Threads: Politics. Optional.
+
+**Script.** In front of the Senate House is a fenced patch of black stone paving: the Lapis Niger, the black stone. By the late Republic, Romans themselves no longer knew what it marked. Some said the tomb of Romulus. It was considered an ill-omened place.
+
+In 1899 the archaeologist Giacomo Boni dug beneath it. He found an archaic shrine and a stone pillar carrying the oldest known Latin public inscription, from the 6th century BC. The text is written boustrophedon, like an ox ploughing: one line left to right, the next right to left. What survives seems to be a sacred law, with a curse on anyone who violates the spot. It includes the word for king.
+
+It is physical evidence for the age of kings, which ended, by tradition, in 509 BC. Afterwards Romans hated the word rex. Even the emperors, who held more power than any king, avoided the title.
+
+**Look for.** The black paving inside its low enclosure. The shrine underneath is usually closed.
+
+**Images.** Diagram to draw: the inscription pillar, with arrows showing the alternating direction of the lines. Photo: the black paving.
+
+### 16. Curia Julia, the Senate House (CORE)
+
+Threads: Politics, Philosophy.
+
+**Core.** This tall brick building is the Senate House. Julius Caesar began it, Augustus completed it in 29 BC, and what stands now is Emperor Diocletian's rebuild after a fire in 283 AD. It survived because it became a church in the 7th century, and was restored to its Roman form in the 1930s. Its original bronze doors were moved in the 1600s to the Basilica of St John Lateran, where they still hang.
+
+How did the Senate work? Senators were former magistrates, around 600 of them under Augustus. Officially they only gave advice. In practice, under the Republic, they controlled money, foreign policy and the provinces. They sat on tiered benches along the side walls. The presiding magistrate asked each senator for his opinion in order of rank. Then they voted by walking to one side of the hall, "going with their feet".
+
+Under the emperors, real power moved to the palace. The Senate became the stage where the aristocracy showed loyalty, but it remained the top of every Roman career.
+
+**Deep dive: the Altar of Victory.** After Actium, Augustus placed a statue and altar of the goddess Victory in this hall. For nearly four centuries, senators burned incense there before meetings. Christian emperors removed it, and in 382 AD Gratian removed it for good.
+
+In 384 the pagan senator Symmachus, prefect of Rome, asked the young emperor Valentinian II to restore it. His most famous argument: so great a mystery cannot be reached by one road alone. It was a plea for tolerance and for the traditions that had made Rome.
+
+Bishop Ambrose of Milan answered that truth is one, and a Christian emperor must not support idolatry. Ambrose won, and the altar never returned. The debate captures a turning point: an old world of many paths to the divine, and a new one built on a single truth.
+
+**Look for.** The brick facade, once covered in stucco made to look like marble. The bronze doors, today modern copies. If the interior is open: the tiers where the senators' benches stood.
+
+**Images.** Then and now: a reconstruction drawing of a Senate session. Photo: the original bronze doors at St John Lateran. Diagram to draw: how a vote by walking worked.
+
+### 17. Shrine of Venus Cloacina and Basilica Aemilia
+
+Threads: Engineering. Optional.
+
+**Script.** In front of the Basilica Aemilia is a small round marble base. It was the shrine of Venus Cloacina, goddess of the Cloaca Maxima, the great drain. Tradition says the drain was begun around 600 BC, under Rome's kings, as an open channel carrying the valley's streams to the Tiber. Later it was vaulted over. Parts of it still carry water today, and its outlet can be seen on the Tiber bank. The Romans gave their sewer a goddess.
+
+Pliny the Elder ranked the sewers among Rome's greatest achievements, and claimed they were big enough for a wagon loaded with hay to pass through. Water overflowing from the aqueducts kept them flushed.
+
+Behind the shrine, the Basilica Aemilia was a business hall lined with shops, first built in 179 BC. When the Visigoths sacked Rome in 410 AD it burned. Bronze coins in the money changers' shops melted into the marble floor, and you can still see the green stains.
+
+**Look for.** The small round base with its low railing. Green stains on the floor of the Basilica Aemilia, visible from the walkway.
+
+**Images.** Diagram to draw: cross-section of the vaulted Cloaca Maxima. Photo: an ancient coin showing the shrine. Look for: a photo of the coin stains.
+
+### 18. Temple of Antoninus and Faustina (exit here)
+
+Threads: Philosophy, Engineering. Optional.
+
+**Script.** Your last Forum stop is right by the exit. Emperor Antoninus Pius built this temple in 141 AD for his wife Faustina, who had been declared a goddess. After his own death in 161 the Senate rededicated it to both of them. The top line of the inscription, naming him, was added then.
+
+It survived as the church of San Lorenzo in Miranda. Look at the church door: it hangs high above the temple steps. That door was built at the medieval ground level, which shows how deeply the Forum was buried. The grooves near the tops of the columns are said to come from ropes, when medieval builders tried to pull them down and failed. That is the story, anyway.
+
+Antoninus ruled for 23 peaceful years. At Hadrian's request, he adopted a teenager named Marcus Aurelius, the future philosopher-emperor. In the first book of his Meditations, Marcus lists what he learned from Antoninus. He was gentle but firm once a decision was carefully made, indifferent to flattery, hardworking, and willing to listen to anyone with something useful to say. It is the Stoic picture of a good ruler, and a good place to end the Forum.
+
+**Look for.** The top inscription line naming Antoninus. The church door high above the temple steps. The grooves at the tops of the columns.
+
+**Images.** Then and now: a Piranesi engraving of the half-buried temple. Diagram to draw: the ancient and medieval ground levels on the temple front. Look for: the inscription with the added top line highlighted.
+
+## Colosseum (stops 19–25, 13:00–14:15)
+
+Play stop 19 while you queue for security. Inside, the route is one-way and you have 75 minutes. Stop 20, the Arch of Constantine, is outside the gates, so it works best on your way out.
+
+### 19. Outside: Nero's lake becomes a people's arena (CORE)
+
+Threads: Politics, Engineering.
+
+**Core.** Its real name is the Flavian Amphitheatre. Colosseum is a medieval nickname, probably from the Colossus of Nero, a bronze statue over 30 m tall that stood nearby.
+
+After the great fire of 64 AD, Nero built himself a vast palace and park in the centre of Rome, with an artificial lake on this spot. After his death in 68 and a year of civil war, the winner, Vespasian, drained the lake and built an arena for the public. The message: what the tyrant took, the new emperor gives back to the people. The poet Martial celebrated exactly that.
+
+Work began around 70 AD. Titus opened it in 80 AD with a hundred days of games, and Domitian completed it. Remember the treasure on the Arch of Titus this morning: the spoils of Jerusalem probably helped pay for it.
+
+**Deep dive: built in about ten years.** First the lake was drained and a ring of concrete foundations poured, around 12 m deep. The outer wall used about 100,000 cubic metres of travertine, quarried near Tivoli about 30 km away and hauled on a dedicated road. The blocks were held together with an estimated 300 tonnes of iron clamps.
+
+The speed came from organisation. Small differences in details between sections suggest that four building teams worked on four quarters of the ring at the same time. Parts were standardised. Treadwheel cranes, powered by men walking inside a large wheel, lifted blocks weighing several tonnes. The labour force combined skilled builders with large numbers of unskilled workers, probably including prisoners from the Jewish war.
+
+**Look for.** The full four-storey outer wall on the north side, and the lower, broken south side. The two big sloping brick buttresses at the ends of the surviving outer wall, added in the early 1800s to stop it collapsing.
+
+**Images.** Then and now: a reconstruction of the valley with Nero's lake and the Colossus. Diagram to draw: a Roman treadwheel crane lifting a block. Photo: the 1800s brick buttress.
+
+### 20. Arch of Constantine
+
+Threads: Politics, Philosophy. Optional, best after your visit.
+
+**Script.** The Senate dedicated this arch in 315 AD to Constantine, who had defeated his rival Maxentius at the Milvian Bridge in 312. That is the same Maxentius whose basilica you saw this morning.
+
+Much of its sculpture is recycled. Panels and roundels were taken from monuments of Trajan, Hadrian and Marcus Aurelius, and the emperors' heads were recut to look like Constantine. Why? Perhaps speed, or a shortage of skilled sculptors. Perhaps a deliberate message: Constantine as heir to Rome's best emperors. Scholars still argue.
+
+Compare the styles. The 2nd-century pieces are naturalistic and flowing. The narrow 4th-century frieze has stocky, front-facing figures. Art historians once called that decline. Today it is seen as a new style, pointing toward medieval art.
+
+The inscription says Constantine won by the inspiration of the divinity, without saying which divinity. Pagans and Christians could both read it their own way. And the eight tall panels near the top come from a monument to Marcus Aurelius. They show the philosopher-emperor on campaign on the Danube, where he wrote much of his Meditations in army camps.
+
+**Look for.** The eight attic panels from Marcus Aurelius's monument. The round hunting scenes from Hadrian's time. The narrow 4th-century frieze above the side arches.
+
+**Images.** Diagram to draw: the arch front with each part coloured by the emperor it came from. Look for: a photo comparing a 2nd-century roundel with the 4th-century frieze.
+
+### 21. The shell: how it stands (CORE)
+
+Threads: Engineering.
+
+**Core.** The Colosseum is an ellipse about 189 by 156 m, and its outer wall stood about 48 m high. The builders matched materials to jobs. Travertine for the outer wall and main piers, which carry the heaviest loads. Tufa for the radial walls. Brick-faced concrete for vaults and upper parts, where less weight was better.
+
+The travertine blocks were laid without mortar, held by iron clamps fixed in lead. That explains the holes all over the walls. In the Middle Ages, people dug out the clamps for their metal.
+
+The structure is really a three-dimensional grid. Radial walls run outward like spokes, ring corridors run around, and vaults tie them together. The columns on the facade are mostly decoration: plain Tuscan at the bottom, then Ionic, then Corinthian, with flat pilasters at the top.
+
+**Deep dive: built for crowds.** The ground floor had 80 arches. Seventy-six were numbered public entrances, and you can still see Roman numerals above some of them. A ticket, a small token, gave your entrance, sector and row, just like a stadium ticket today.
+
+Stairs and vaulted corridors led to openings in the seating called vomitoria, from the Latin for "spew out". They let the building fill and empty quickly. Modern stadiums still use the same layout: ring corridors, radial stairs and many openings.
+
+There is one more engineering lesson. The south side, which collapsed in an earthquake in 1349, stood on softer ground, sediment from the old valley stream and Nero's lake. The north side, on firmer ground, survived. Foundations matter.
+
+**Look for.** Clamp holes in the travertine. The change from travertine piers to brick vaults. The ring corridors. Roman numerals above the arches, visible from outside on the north side.
+
+**Images.** Diagram to draw: a cut-away of one section, showing piers, radial walls, ring corridors and vaults. Look for: a photo of a numbered arch. Diagram to draw: an iron clamp set in lead between two blocks.
+
+### 22. The seating: a map of Roman society (CORE)
+
+Threads: Politics, Daily life.
+
+**Core.** About 50,000 spectators sat in a strict order. Augustus had laid down seating rules for theatres, and the amphitheatre followed them. Senators sat on the podium, closest to the arena, on wide seats. Knights came next. Then ordinary citizens, divided again: soldiers apart from civilians, married men apart from bachelors, boys near their tutors. Poorer men sat higher up. Most women sat at the very top, on wooden benches under a colonnade. The Vestals were an exception, with seats of honour.
+
+Citizens in the lower sections had to wear the toga. The emperor's box was in the middle of one long side. Entry was free, because the shows were a gift from the emperor. Where you sat showed everyone who you were.
+
+**Deep dive: a day as a spectator.** People came with cushions, snacks and hats against the sun. They shouted, bet and cheered. Above all, they watched the emperor watching the games. This was the one place where he faced the people directly. Crowds could ask for a fighter to be spared, or chant demands about grain prices or unpopular officials.
+
+Gladiators were mostly slaves, prisoners or volunteers who signed up for money and fame. Fights had referees and rules. Not every fight ended in death. A gladiator was an expensive investment, and a cemetery of gladiators found at Ephesus shows wounds that had been treated and had healed. The "thumbs down" signal is likely a modern myth. We are not sure which gesture meant death.
+
+In late antiquity, the names of senatorial families were carved into the marble seats of the podium, reserving them. Some of these blocks survive.
+
+**Look for.** The level of the podium, just above the arena. Where the emperor's box would have been, on the middle of a long side. Names carved into surviving marble seat blocks.
+
+**Images.** Diagram to draw: a cross-section of the seating, labelled by social group. Then and now: a reconstruction drawing of the full stands.
+
+### 23. The underground, seen from above (CORE)
+
+Threads: Engineering.
+
+**Core.** The arena floor was wood covered with sand. Our word arena comes from the Latin harena, sand. It is mostly gone, so you can look down into the hypogeum, the underground, built under Domitian. It has two levels of corridors, holding pens and machinery.
+
+Lifts raised animals, scenery and performers through trapdoors, so they appeared in the arena as if from nowhere. Each lift was worked by a capstan, a vertical drum turned by men pushing bars, which wound a rope over pulleys. Scholars estimate there were dozens of lifts. In 2015 a team built a working replica and used it to lift a wolf into the arena.
+
+**Deep dive: a theatre machine.** Each lift was a cage running in a vertical shaft between guides. Slots and sockets in the walls show where the shafts, beams and capstans stood. Counterweights may have helped balance the load. Raising whole scenes, like hills or groves of trees for hunting shows, was spectacle engineering in the tradition of Greek stage machinery.
+
+Around it ran the logistics. Animals were shipped from Africa and Asia and held in pens. A tunnel connected the hypogeum to the main gladiator school, the Ludus Magnus, just east of the Colosseum. Drains carried water away to the sewers.
+
+Some ancient writers describe the arena being flooded for mock sea battles in the early years. How that worked is debated. Once Domitian built the hypogeum, flooding was no longer possible.
+
+**Look for.** The long central corridor. Rows of slots and niches in the walls, where lift shafts ran. The partly rebuilt arena floor at one end, which shows the original level.
+
+**Images.** Diagram to draw: a cross-section of one lift, with capstan, rope, pulleys, cage and trapdoor. Then and now: a reconstruction of the arena floor with trapdoors open.
+
+### 24. The velarium: shade for 50,000
+
+Threads: Engineering. Optional.
+
+**Script.** On hot days, a giant awning, the velarium, shaded the seating. Look at the top of the outer wall. You will see stone brackets, and holes in the cornice above them. There were 240 of these sockets, where wooden masts stood. Ropes from the masts held sheets of sailcloth over the stands.
+
+Sailors from the imperial fleet at Misenum, near Naples, were stationed in Rome to work it. Rigging huge sails in the wind was their trade.
+
+Exactly how it worked is still unresolved. Was it one great ring of cloth pulled toward the centre by ropes, or many separate sections? Stone posts that ring the pavement outside the east side may have anchored the ropes. Either way, the wind loads on that much fabric were enormous, and the system had to be adjustable as the sun moved.
+
+**Look for.** The brackets and mast sockets at the top of the outer wall, best seen from outside on the north side. The stone posts around the pavement on the east side.
+
+**Images.** Diagram to draw: two velarium theories side by side, a single ring versus separate sections.
+
+### 25. Level 2 and the museum: the political deal
+
+Threads: Daily life, Politics, Philosophy. Optional.
+
+**Script.** The upper level has a small museum with finds from the Colosseum: graffiti scratched by spectators, showing gladiators and hunts, along with sculptures and everyday objects.
+
+Why were the games free? Because they were politics. The satirist Juvenal mocked the Roman people: once they gave out armies and offices, now they want only two things, bread and games. Fronto, tutor to Marcus Aurelius, put it more bluntly. The Roman people are held by two things, grain and shows. An emperor who neglected entertainment, he warned, risked more than one who neglected serious business.
+
+Not every Roman approved. Seneca wrote of going to a midday show and coming home more cruel and less human. Marcus Aurelius is said to have read and answered documents during the games.
+
+From the terraces, look west. The Arch of Titus, the Palatine and the Forum: the whole morning's route lies in front of you, from the hut of Romulus to the arena of the Flavians.
+
+**Look for.** Spectator graffiti in the museum. The view west to the Arch of Titus, the Temple of Venus and Rome, and the Palatine.
+
+**Images.** Look for: a photo of spectator graffiti. Diagram to draw: a closing map of the day's route with all 25 stops.
