@@ -70,8 +70,10 @@
       });
       const file = stop.audio && stop.audio[part];
       this.showBar();
-      if (file) this.playFile(file); else this.speakNext();
+      // play through the speaker even when the iPhone's silent switch is on (Safari 17+)
+      try { if (navigator.audioSession) navigator.audioSession.type = "playback"; } catch (e) {}
       this.playing = true;
+      if (file) this.playFile(file); else this.speakNext();
       this.updateBar();
     },
 
@@ -94,14 +96,28 @@
       if (this.idx >= this.chunks.length) { this.finished(); return; }
       const c = this.chunks[this.idx];
       const u = new SpeechSynthesisUtterance(c.t);
-      const v = this.pickVoice();
+      // a chosen voice that is not downloaded can be silent on iOS: after one silent attempt, use the default
+      const v = this.plainVoice ? null : this.pickVoice();
       if (v) { u.voice = v; u.lang = v.lang; } else { u.lang = "en-GB"; }
       u.rate = S.rate; u.pitch = 1;
       const tok = this.token;
+      let started = false;
+      u.onstart = () => { started = true; };
       u.onend = () => { if (tok !== this.token || !this.playing) return; this.idx++; this.speakNext(); };
       u.onerror = (e) => { if (tok !== this.token) return; if (e.error === "interrupted" || e.error === "canceled") return; this.idx++; this.speakNext(); };
       this.utter = u;
-      speechSynthesis.speak(u);
+      // iOS drops an utterance queued right after cancel(), so give the engine a moment
+      const go = () => {
+        if (tok !== this.token) return;
+        speechSynthesis.resume();
+        speechSynthesis.speak(u);
+        setTimeout(() => {
+          if (tok !== this.token || started || !this.playing || this.plainVoice) return;
+          this.plainVoice = true; this.token++; speechSynthesis.cancel();
+          setTimeout(() => this.speakNext(), 150);
+        }, 2500);
+      };
+      if (speechSynthesis.speaking || speechSynthesis.pending) setTimeout(go, 150); else go();
       this.highlight(c.p);
       this.setProgress(this.idx / this.chunks.length);
     },
@@ -128,7 +144,7 @@
 
     halt(keepBar) {
       this.token++; this.playing = false;
-      if (window.speechSynthesis) speechSynthesis.cancel();
+      if (window.speechSynthesis && (speechSynthesis.speaking || speechSynthesis.pending)) speechSynthesis.cancel();
       if (this.audioEl) { this.audioEl.pause(); }
       this.highlight(-1);
       if (!keepBar) { this.stop = null; $("#player").hidden = true; }
@@ -400,7 +416,7 @@
         <label for="rate">Speed: <b id="rateVal">${S.rate.toFixed(2)}×</b></label>
         <input id="rate" type="range" min="0.75" max="1.3" step="0.05" value="${S.rate}">
         <div class="row-actions"><button class="btn" data-testvoice>Test voice</button><button class="btn" data-stopvoice>Stop</button></div>
-        <p class="small">For a far better voice: iPhone Settings › Accessibility › Spoken Content › Voices › English, and download an <b>Enhanced</b> or <b>Premium</b> voice (for example Serena or Daniel). Then pick it here. Stops with recorded audio files play those instead.</p></div>
+        <p class="small">Every stop has a recorded voice, so this is only a backup. For a better backup voice: iPhone Settings › Accessibility › Read &amp; Speak › Voices › English (on iOS 18 and older: Spoken Content), and download an <b>Enhanced</b> or <b>Premium</b> voice. Then pick it here.</p></div>
 
       <div class="card"><h2>Location</h2>
         <button class="btn ${Geo.watch !== null ? "" : "primary"}" data-gps>${Geo.watch !== null ? "Stop GPS" : "Start GPS"}</button>

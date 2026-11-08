@@ -36,7 +36,7 @@ gh api -X POST repos/{owner}/rome-walk/pages -f "source[branch]=main" -f "source
 ## 3. Before you fly: checklist
 
 - [ ] **Offline test.** Switch on flight mode, open the app from the Home Screen, play a stop, open the Map, tap Start GPS.
-- [ ] **Better voice.** Settings › Accessibility › Spoken Content › Voices › English: download an **Enhanced** or **Premium** voice. Pick it in the app's Plan tab.
+- [x] **Recorded voice.** Every stop is recorded with the ElevenLabs voice Chris Brift (`tools/make_audio_elevenlabs.py`). The iPhone voice is only a backup: for a better backup, Settings › Accessibility › Read & Speak › Voices › English (Spoken Content on iOS 18 and older), download an **Enhanced** or **Premium** voice and pick it in the app's Plan tab.
 - [ ] **Offline Apple Maps.** In Apple Maps, tap your profile › Offline Maps and download central Rome. The "Show in Maps" buttons then work without data.
 - [ ] **Optional backup map.** Download the free Organic Maps app with Rome offline, then open `maps/rome-guide.kml` (from the Plan tab) to get every stop as a pin.
 - [ ] **Screen lock.** iPhone stops spoken text when the screen locks. On the day, set Settings › Display & Brightness › Auto-Lock to a long time, or make recorded audio (section 4), which keeps playing.

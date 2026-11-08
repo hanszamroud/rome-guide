@@ -70,7 +70,9 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/01-core.mp3"
+   }
   },
   {
    "n": 2,
@@ -97,7 +99,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/02-core.mp3",
+    "deep": "audio/02-deep.mp3"
+   }
   },
   {
    "n": 3,
@@ -118,7 +123,9 @@ window.GUIDE = {
    "lon": 12.487,
    "minutes": 5,
    "images": [],
-   "audio": {}
+   "audio": {
+    "core": "audio/03-core.mp3"
+   }
   },
   {
    "n": 4,
@@ -145,7 +152,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/04-core.mp3",
+    "deep": "audio/04-deep.mp3"
+   }
   },
   {
    "n": 5,
@@ -171,7 +181,9 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/05-core.mp3"
+   }
   },
   {
    "n": 6,
@@ -197,7 +209,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/06-core.mp3",
+    "deep": "audio/06-deep.mp3"
+   }
   },
   {
    "n": 7,
@@ -224,7 +239,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/07-core.mp3",
+    "deep": "audio/07-deep.mp3"
+   }
   },
   {
    "n": 8,
@@ -250,7 +268,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/08-core.mp3",
+    "deep": "audio/08-deep.mp3"
+   }
   },
   {
    "n": 9,
@@ -277,7 +298,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/09-core.mp3",
+    "deep": "audio/09-deep.mp3"
+   }
   },
   {
    "n": 10,
@@ -303,7 +327,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/10-core.mp3",
+    "deep": "audio/10-deep.mp3"
+   }
   },
   {
    "n": 11,
@@ -324,7 +351,10 @@ window.GUIDE = {
    "lon": 12.48515,
    "minutes": 7,
    "images": [],
-   "audio": {}
+   "audio": {
+    "core": "audio/11-core.mp3",
+    "deep": "audio/11-deep.mp3"
+   }
   },
   {
    "n": 12,
@@ -345,7 +375,9 @@ window.GUIDE = {
    "lon": 12.48455,
    "minutes": 4,
    "images": [],
-   "audio": {}
+   "audio": {
+    "core": "audio/12-core.mp3"
+   }
   },
   {
    "n": 13,
@@ -366,7 +398,10 @@ window.GUIDE = {
    "lon": 12.48492,
    "minutes": 7,
    "images": [],
-   "audio": {}
+   "audio": {
+    "core": "audio/13-core.mp3",
+    "deep": "audio/13-deep.mp3"
+   }
   },
   {
    "n": 14,
@@ -392,7 +427,9 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/14-core.mp3"
+   }
   },
   {
    "n": 15,
@@ -418,7 +455,9 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/15-core.mp3"
+   }
   },
   {
    "n": 16,
@@ -439,7 +478,10 @@ window.GUIDE = {
    "lon": 12.48535,
    "minutes": 8,
    "images": [],
-   "audio": {}
+   "audio": {
+    "core": "audio/16-core.mp3",
+    "deep": "audio/16-deep.mp3"
+   }
   },
   {
    "n": 17,
@@ -459,7 +501,9 @@ window.GUIDE = {
    "lon": 12.4859,
    "minutes": 4,
    "images": [],
-   "audio": {}
+   "audio": {
+    "core": "audio/17-core.mp3"
+   }
   },
   {
    "n": 18,
@@ -486,7 +530,9 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/18-core.mp3"
+   }
   },
   {
    "n": 19,
@@ -513,7 +559,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/19-core.mp3",
+    "deep": "audio/19-deep.mp3"
+   }
   },
   {
    "n": 20,
@@ -534,7 +583,9 @@ window.GUIDE = {
    "lon": 12.49065,
    "minutes": 5,
    "images": [],
-   "audio": {}
+   "audio": {
+    "core": "audio/20-core.mp3"
+   }
   },
   {
    "n": 21,
@@ -565,7 +616,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/21-core.mp3",
+    "deep": "audio/21-deep.mp3"
+   }
   },
   {
    "n": 22,
@@ -592,7 +646,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/22-core.mp3",
+    "deep": "audio/22-deep.mp3"
+   }
   },
   {
    "n": 23,
@@ -618,7 +675,10 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/23-core.mp3",
+    "deep": "audio/23-deep.mp3"
+   }
   },
   {
    "n": 24,
@@ -644,7 +704,9 @@ window.GUIDE = {
      "kind": "diagram"
     }
    ],
-   "audio": {}
+   "audio": {
+    "core": "audio/24-core.mp3"
+   }
   },
   {
    "n": 25,
@@ -666,7 +728,9 @@ window.GUIDE = {
    "lon": 12.4917,
    "minutes": 10,
    "images": [],
-   "audio": {}
+   "audio": {
+    "core": "audio/25-core.mp3"
+   }
   }
  ],
  "places": [
